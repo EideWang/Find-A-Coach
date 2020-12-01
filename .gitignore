@@ -3,7 +3,7 @@ node_modules
 /dist
 
 
-BaseButton.vue
+
 
 # local env files
 .env.local
