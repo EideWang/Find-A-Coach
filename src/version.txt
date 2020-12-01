@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-v0.1.2
-=======
-v0.2.3
->>>>>>> b36c4ac (v0.2.3)
-=======
-v0.2.4 (before rebase)
->>>>>>> ca63ccd (v0.2.4 (before rebase))
